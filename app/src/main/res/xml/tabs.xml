@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/ic_movies"
+        text="@string/now_playing" />
+
+    <tab
+        drawable="@drawable/ic_heart_red"
+        text="@string/fav" />
+
+</tabs>
